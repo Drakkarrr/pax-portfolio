@@ -1,0 +1,16 @@
+.title-container {
+    margin: 0 8rem;
+    margin-top: 2rem;
+    position: relative;
+
+    svg {
+        width: 100%;
+    }
+
+    img {
+        width: 20rem;
+        position: absolute;
+        top: 0;
+        right: 1rem;
+    }
+}
