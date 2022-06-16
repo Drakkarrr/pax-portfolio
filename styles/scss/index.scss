@@ -1,7 +1,14 @@
+
+/* Global variables  */
+
 $primary-color: rgb(255, 255, 255);
 $secondary-color: #FF9643;
 $font-color: #0D095C;
 $button-color: #fff;
+
+
+
+/* Components import styles  */
 
 @import "nav";
 @import "home";
